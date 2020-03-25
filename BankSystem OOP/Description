@@ -1,0 +1,2 @@
+This is a basic console application - demo project involving C# OOP. It simulates a bank queue management program.
+Generaly it can recognize the type of the customer bank operation and enque it to the relevant till.
