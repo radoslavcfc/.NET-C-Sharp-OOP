@@ -1,4 +1,4 @@
-namespace BankDemo
+namespace Enumerations.BankDemo
 {
     public enum OperationType
     {

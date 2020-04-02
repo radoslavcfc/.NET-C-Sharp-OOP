@@ -1,5 +1,6 @@
 using BankSystem;
 using BankSystem.Contracts;
+using Enumerations.BankDemo;
 using Logging;
 
 namespace BankDemo

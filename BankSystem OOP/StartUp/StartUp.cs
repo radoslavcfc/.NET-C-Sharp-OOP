@@ -1,14 +1,13 @@
 ﻿using System;
 using BankDemo;
+using Enumerations.BankDemo;
 using Logging;
+
 namespace StartUpPoint
 {
-    public class StartUp
+    public static class StartUp
     {
-        //Welcome to my small app :)
-        //Wish you a pleasant reading!
-        //Open to any comments and advices !
-        public static void Main(string[] args)
+        public static void Configure()
         {
             try
             {
@@ -24,6 +23,12 @@ namespace StartUpPoint
             Console.ReadKey();
         }
 
+        /// <summary>
+        /// /Static seeding method fills up the collections with sample data
+        /// </summary>
+        /// <returns>
+        /// Completed office is returned with demo information for test purposes
+        /// </returns>
         public static Office SeedSampleInformation()
         {
             var consoleLogger = new ConsoleLogger();

@@ -45,7 +45,7 @@
     <Compile Include="Contracts\IOffice.cs" />
     <Compile Include="Contracts\ITerminal.cs" />
     <Compile Include="Contracts\ITransaction.cs" />
-    <Compile Include="Enums.cs" />
+    <Compile Include="Enumerations\Enums.cs" />
     <Compile Include="IdGenerator.cs" />
     <Compile Include="Office.cs" />
     <Compile Include="Person.cs" />

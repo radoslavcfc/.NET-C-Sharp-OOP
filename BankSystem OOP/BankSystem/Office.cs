@@ -1,4 +1,5 @@
 using BankSystem.Contracts;
+using Enumerations.BankDemo;
 using Logging;
 using System.Collections.Generic;
 using System.Linq;

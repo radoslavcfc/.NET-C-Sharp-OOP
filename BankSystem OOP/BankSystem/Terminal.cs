@@ -1,6 +1,6 @@
 using Logging;
 using BankSystem.Contracts;
-
+using Enumerations.BankDemo;
 namespace BankDemo
 {
     public class Terminal: ITerminal

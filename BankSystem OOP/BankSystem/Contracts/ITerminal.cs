@@ -1,4 +1,5 @@
 ﻿using BankDemo;
+using Enumerations.BankDemo;
 
 namespace BankSystem.Contracts
 {
