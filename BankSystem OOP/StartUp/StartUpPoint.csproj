@@ -47,9 +47,6 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="App.config" />
-  </ItemGroup>
-  <ItemGroup>
     <ProjectReference Include="..\BankSystem\BankSystem.csproj">
       <Project>{59d3f3cc-4b91-495a-b1da-c2128851e3df}</Project>
       <Name>BankSystem</Name>
